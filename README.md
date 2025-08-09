@@ -44,9 +44,6 @@ Project_Revature/
 ├── sample_logs/ # Sample log files for testing
 └── README.md # Documentation
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -57,8 +54,7 @@ Edit
 - Install **MySQL/MariaDB** and note down host, user, password, and port.
 
 ### 2️⃣ Clone the Project
-     clone this project here
-cd Log-File-Analysis
+    https://github.com/kanseanuja/Log-File-Analysis-and-Reporting-systemRevatureProject.git
 
 3️⃣ Install Dependencies
 pip install -r requirements.txt
