@@ -1,0 +1,4 @@
+mysql-connector-python==8.0.30
+tabulate==0.8.9
+matplotlib
+seaborn
